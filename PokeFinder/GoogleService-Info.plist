@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>406907727360-vc4l1cphrkc1vgpn0to0f6gvmkk9hq6t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.406907727360-vc4l1cphrkc1vgpn0to0f6gvmkk9hq6t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChrrG8tBiiaBK8kMw7gyPF-YKtf4HU0JQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>406907727360</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.apollo.pokesearch</string>
+	<key>PROJECT_ID</key>
+	<string>pokesearch-42b58</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokesearch-42b58.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:406907727360:ios:850c3686c37b9b18</string>
+	<key>DATABASE_URL</key>
+	<string>https://pokesearch-42b58.firebaseio.com</string>
+</dict>
+</plist>
